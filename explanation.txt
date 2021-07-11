@@ -1,0 +1,1 @@
+In Q3.c1 square root scale line chart, the line shape is linear, indicating the avg rating exhibits a quartic relationship with time. In Q3.c2 log scale line chart, the lines are almost horizontal, meaning avg rating exhibits no log relationship with time.
